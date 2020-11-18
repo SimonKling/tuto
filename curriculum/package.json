@@ -59,7 +59,7 @@
     "puppeteer": "^1.19.0",
     "readdirp-walk": "^1.7.0",
     "rx": "^4.1.0",
-    "semantic-release": "^15.13.24",
+    "semantic-release": "^17.2.3",
     "validator": "^10.4.0"
   },
   "keywords": [
