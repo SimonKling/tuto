@@ -43,7 +43,7 @@
     "loop-protect": "^2.1.6",
     "monaco-editor": "^0.18.1",
     "monaco-editor-webpack-plugin": "^1.7.0",
-    "nanoid": "^1.2.2",
+    "nanoid": "^3.1.31",
     "prismjs": "^1.17.1",
     "query-string": "^6.8.3",
     "react": "^16.10.2",
